@@ -202,7 +202,7 @@ func! CompileRunGcc()
 endfunc
 
 
-"代码补全
+"代码补全ok
 "filetype plugin indent on
 "set completeopt=longest,menu
 
